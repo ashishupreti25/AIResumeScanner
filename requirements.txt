@@ -1,0 +1,8 @@
+pypdf
+langchain
+chromadb
+langchain_community
+groq
+unstructured
+python-docx
+streamlit
