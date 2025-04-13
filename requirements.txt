@@ -6,3 +6,4 @@ groq
 unstructured
 python-docx
 streamlit
+sentence-transformers
