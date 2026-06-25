@@ -11,7 +11,7 @@ import requests
 CHROMA_COLLECTION_NAME = "Resume_Collection"
 EMBEDDING_MODEL_NAME = "all-MiniLM-L6-v2"
 GROQ_MODEL_NAME = "llama3-8b-8192"
-groq_api_key = os.getenv("GROQ_API_KEY", "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")
+groq_api_key = os.getenv("GROQ_API_KEY", "")
 
 # Load Sentence Transformer embeddings
 @st.cache_resource
